@@ -1,0 +1,17 @@
+{
+  "name": "npm-use",
+  "version": "1.0.1",
+  "description": "npm_use",
+  "main": "index.js",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "request": "^2.83.0",
+    "silly-datetime": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
