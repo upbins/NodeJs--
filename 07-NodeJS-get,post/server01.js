@@ -38,16 +38,18 @@ http.createServer(function (req,res) {
         //根据不同的url来操作不同的路由操作
         if (pathname === "/login"){
             console.log("login")
-            var data_temp = "我是一个数据"
+            var data_temp = "我是一个数据";
             var list = [
                 "1111",
                 "2222",
                 "3333",
                 "4444",
-            ]
+            ];
+            var h = "<h2>我这是一个html数据啊</h2>"
             ejs.renderFile("views/login.ejs",{
                 msg:data_temp,
                 list:list,
+                h:h,
             },function (err,data) {
                 res.end(data);
             })
