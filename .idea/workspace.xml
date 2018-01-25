@@ -14,41 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/model/router.js">
+      <file leaf-file-name="server01.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-NodeJS-get,post/server01.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="28" column="66" lean-forward="false" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server01.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/server01.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/views/index.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.ejs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/views/login.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -73,6 +43,9 @@
       <find>getExtFileName</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -95,8 +68,8 @@
         <option value="$PROJECT_DIR$/5.nodejs静态的web服务器/server01.js" />
         <option value="$PROJECT_DIR$/7.NodeJS中的get,post参数/test.lua" />
         <option value="$PROJECT_DIR$/7.NodeJS中的get,post参数/model/router.js" />
-        <option value="$PROJECT_DIR$/7.NodeJS中的get,post参数/server01.js" />
         <option value="$PROJECT_DIR$/7.NodeJS中的get,post参数/views/index.ejs" />
+        <option value="$PROJECT_DIR$/7.NodeJS中的get,post参数/server01.js" />
       </list>
     </option>
   </component>
@@ -113,8 +86,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/07-NodeJS-get,post/node_modules" />
     <handled-path value="$PROJECT_DIR$/3.npm的安装与使用/node_modules" />
-    <handled-path value="$PROJECT_DIR$/7.NodeJS中的get,post参数/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -153,41 +126,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="node_js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node_js" type="462c0819:PsiDirectoryNode" />
+              <item name="Nodejs-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Nodejs-learn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="node_js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node_js" type="462c0819:PsiDirectoryNode" />
-              <item name="5.nodejs静态的web服务器" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node_js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node_js" type="462c0819:PsiDirectoryNode" />
-              <item name="7.NodeJS中的get,post参数" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node_js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node_js" type="462c0819:PsiDirectoryNode" />
-              <item name="7.NodeJS中的get,post参数" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Nodejs-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Nodejs-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="07-NodeJS-get,post" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/zsyz.dev/client/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.11.4" />
@@ -218,9 +180,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.server01.js (1)">
-    <configuration name="event.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="event.js" working-dir="$PROJECT_DIR$/6.Nodejs的回调和事件驱动" />
+  <component name="RunManager" selected="Node.js.server01.js (2)">
     <configuration name="server01.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="server01.js" working-dir="$PROJECT_DIR$/7.NodeJS中的get,post参数" />
+    <configuration name="server01.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="server01.js" working-dir="$PROJECT_DIR$/07-NodeJS-get,post" />
     <configuration name="server01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="server01.js" working-dir="$PROJECT_DIR$/5.nodejs静态的web服务器" />
     <configuration name="test.lua (1)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,18 +208,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.server01.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.event.js" />
-      <item index="2" class="java.lang.String" itemvalue="Lua Script.test.lua" />
-      <item index="3" class="java.lang.String" itemvalue="Lua Script.test.lua (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.server01.js (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Lua Script.test.lua" />
+      <item index="2" class="java.lang.String" itemvalue="Lua Script.test.lua (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.server01.js (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.server01.js (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.server01.js (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Lua Script.test.lua (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Lua Script.test.lua" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.server01.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.event.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server01.js (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.server01.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Lua Script.test.lua (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Lua Script.test.lua" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.server01.js" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +227,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -285,24 +247,27 @@
       <workItem from="1515649050891" duration="2924000" />
       <workItem from="1516084183660" duration="5905000" />
       <workItem from="1516173199777" duration="7749000" />
+      <workItem from="1516872666494" duration="478000" />
+      <workItem from="1516873197000" duration="65000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51549000" />
+    <option name="totallyTimeSpent" value="52092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21145834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17039403" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="0" y="388" width="1920" height="273" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16950959" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="0" y="388" width="1920" height="273" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2140575" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="-1" y="741" width="1896" height="287" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21321961" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="-1" y="741" width="1896" height="287" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -327,13 +292,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6.Nodejs的回调和事件驱动/call_back.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4.nodejs的fs模块/fs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -604,19 +562,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/test.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/test.lua" />
     <entry file="file://F:/node_js/nodejs教程/IT营大地老师2017最新node.js视频教程avi版本（课件+源码+视频）/11Nodejs WEB服务器 静态文件托管、 GET POST路由 EJS模板引擎（上） - avi/07 nodejs get post ejs/model/router.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
           <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,15 +574,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="65" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/model/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
+        <state relative-caret-position="0">
           <caret line="28" column="66" lean-forward="false" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/views/login.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -640,30 +595,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/server01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/server01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7.NodeJS中的get,post参数/views/login.ejs">
+    <entry file="file://$PROJECT_DIR$/07-NodeJS-get,post/server01.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
           <folding />
         </state>
       </provider>
