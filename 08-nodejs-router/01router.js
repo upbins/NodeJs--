@@ -36,6 +36,7 @@ http.createServer(function (req,res) {
                 res.end("<script>alert('登陆成功');history.back();</script>")
             })
 
+
         }
         else {
             console.log("index")
